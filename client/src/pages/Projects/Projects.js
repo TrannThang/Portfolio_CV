@@ -35,10 +35,7 @@ const Projects = () => {
                   <div className="ad-title m-auto">
                     <h6 className="text-uppercase">My Portfolio</h6>
                   </div>
-                  <a
-                    className="ad-btn"
-                    href="https://github.com/techinfo-youtube/ecommerce-app-2023"
-                  >
+                  <a className="ad-btn" href="#">
                     View
                   </a>
                 </div>
